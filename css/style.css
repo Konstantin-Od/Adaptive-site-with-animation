@@ -221,13 +221,13 @@ body {
   color: #fff;
 }
 .main-page__box {
-  background: url("../../img/bg.jpg") 0 0/auto 100% no-repeat;
+  background: url("../img/bg.jpg") 0 0/auto 100% no-repeat;
   padding: 56px 0px 83px;
 }
 @media (min-width: 588px) {
   .main-page__box {
     padding: 65px 0px 120px;
-    background: url("../../img/bg.jpg") 0 0/cover no-repeat;
+    background: url("../img/bg.jpg") 0 0/cover no-repeat;
   }
 }
 .main-page__logo {
@@ -715,7 +715,7 @@ body {
   width: 24px;
   height: 24px;
   padding-left: 39px;
-  background: url("../../img/icons/circle.png") 0 0/contain no-repeat;
+  background: url("../img/icons/circle.png") 0 0/contain no-repeat;
 }
 .grey-block__line {
   margin-bottom: 15px;
@@ -909,7 +909,7 @@ body {
   width: 24px;
   height: 24px;
   padding-left: 38px;
-  background: url("../../img/icons/plane.png") 0 0 no-repeat;
+  background: url("../img/icons/plane.png") 0 0 no-repeat;
 }
 
 .title-see:before {
@@ -917,7 +917,7 @@ body {
   width: 24px;
   height: 24px;
   padding-left: 38px;
-  background: url("../../img/icons/pencil.png") 0 0 no-repeat;
+  background: url("../img/icons/pencil.png") 0 0 no-repeat;
 }
 
 .just {
@@ -1129,7 +1129,7 @@ body {
   width: 17px;
   height: 17px;
   padding-left: 25px;
-  background: url("../../img/icons/star.png") 0 0 no-repeat;
+  background: url("../img/icons/star.png") 0 0 no-repeat;
 }
 .bottom__line {
   background-color: #f5f5f5;
