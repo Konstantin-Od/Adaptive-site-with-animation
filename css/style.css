@@ -221,7 +221,7 @@ body {
   color: #fff;
 }
 .main-page__box {
-  background: url("../img/bg.jpg") 0 0/auto 100% no-repeat;
+  background: url("img/bg.jpg") 0 0/auto 100% no-repeat;
   padding: 56px 0px 83px;
 }
 @media (min-width: 588px) {
